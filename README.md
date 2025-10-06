@@ -46,6 +46,7 @@ py -m pip install -r requirements.txt
 
 # Launch Jupyter Notebook
 jupyter notebook
+```
 
 Then open your ```chrisbraun_ml.ipynb``` and run all cells
 
